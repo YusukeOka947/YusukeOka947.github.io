@@ -1,0 +1,122 @@
+h2 {
+  color: yellowgreen;
+  font-size: x-large;
+}
+
+#start {
+  width: 120px;
+  height: 30px;
+  /* margin: auto; */
+  background-color: orange;
+  font-size: large;
+  font-weight: 1000;
+  text-align: center;
+}
+
+#passtime {
+  width: 100px;
+  height: 30px;
+  /* margin: auto; */
+  background-color: blue;
+  font-size: large;
+  font-weight: 1000;
+  text-align: center;
+  color: white;
+}
+
+#time {
+  width: 100px;
+  height: 30px;
+  /* margin: auto; */
+  background-color: red;
+  font-size: large;
+  font-weight: 1000;
+  text-align: center;
+  color: white;
+}
+
+#sec {
+  width: 30px;
+  height: 30px;
+  /* margin: auto; */
+  background-color: blue;
+  font-size: large;
+  font-weight: 1000;
+  text-align: center;
+  color: white;
+}
+
+.box1 {
+  width: 600px;
+  height: 30px;
+  background-color: blueviolet;
+  display: flex;
+}
+
+.box2 {
+  width: 900px;
+  height: 720px;
+  /* margin: auto; */
+  background-color: green;
+  display: flex;
+}
+
+#acceptance {
+  width: 50px;
+  height: 720px;
+  background-color: yellow;
+  font-size: x-large;
+  text-align: center;
+}
+
+#expression {
+  width: 200px;
+  height: 720px;
+  /* margin: auto; */
+  background-color: gray;
+  font-size: x-large;
+  color: whitesmoke;
+  text-align: center;
+}
+
+#selectOpe {
+  width: 50px;
+  height: 720px;
+  background-color: yellowgreen;
+  font-size: x-large;
+  text-align: center;
+}
+
+#acceptance2 {
+  width: 50px;
+  height: 720px;
+  background-color: yellow;
+  font-size: x-large;
+  text-align: center;
+}
+
+#expression2 {
+  width: 200px;
+  height: 720px;
+  /* margin: auto; */
+  background-color: gray;
+  font-size: x-large;
+  color: whitesmoke;
+  text-align: center;
+}
+
+#selectOpe2 {
+  width: 50px;
+  height: 720px;
+  background-color: yellowgreen;
+  font-size: x-large;
+  text-align: center;
+}
+
+#ranking {
+  width: 300px;
+  height: 720px;
+  background-color: gray;
+  font-size: x-large;
+  text-align: center;
+}
