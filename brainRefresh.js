@@ -261,9 +261,9 @@ function outerfunc() {
       }
     } else {
       if (questionCnt < 20) {
-        fillInBox(acceptance, "×");
+        fillInBox(acceptance, "🐊");
       } else {
-        fillInBox(acceptance2, "×");
+        fillInBox(acceptance2, "🐊");
       }
     }
     // console.log(cnt);
